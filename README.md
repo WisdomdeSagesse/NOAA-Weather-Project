@@ -1,4 +1,5 @@
 # NOAA-Weather-Project
+## (work in progress)
 Scrapped data from NOAA using Postman and PowerShell and imported the data into SQL.
 Created views in SQL and imported the data into PowerBI using Direct Query.
 Built a map visualization to show the coverage of weather stations across the globe.
